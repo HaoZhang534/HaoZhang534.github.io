@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD (2021-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I am  an intern at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), advised by Prof. [Lei Zhang](https://www.leizhang.org/). Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. I am always open to research discussions and collaborations. Feel free to get in touch!
+I'm a second-year PhD (2021-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)) and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)). 
+<!-- Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. I am always open to research discussions and collaborations. Feel free to get in touch! -->
 <!-- 
 **Research Interests** -->
 
@@ -30,6 +31,11 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
+* **SEEM: Segment Everything Everywhere All at Once**.  
+Xueyan Zou*, Jianwei Yang*, Hao Zhang*, **Feng Li***, Linjie Li, Jianfeng Gao, Yong Jae Lee.   
+arxiv 2023.  
+[[**Paper**]](https://arxiv.org/pdf/2304.06718.pdf)[[**Code**]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+
 * **Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR**.  
 **Feng Li**, Ailing Zeng, Shilong Liu, Hao Zhang, Lei Zhang, Lionel M. Ni.   
 CVPR 2023.  
@@ -50,7 +56,7 @@ CVPR 2023.
 * **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**.  
 Hao Zhang\*, **Feng Li**\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.   
 ICLR 2023.  
-[[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO)
+[[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO) **Rank 2nd on ICLR 2023 Most Inflentical Papers**
   
 * **Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**.  
 **Feng Li**\*, Hao Zhang\*, Yi-Fan Zhang, Shilong Liu, Jian Guo, Lionel M Ni, PengChuan Zhang, Lei Zhang.     
