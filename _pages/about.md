@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I'm a second-year PhD (2021-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)) and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)). 
-<!-- Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. I am always open to research discussions and collaborations. Feel free to get in touch! -->
+Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. 
+<!-- I am always open to research discussions and collaborations. Feel free to get in touch! -->
 <!-- 
 **Research Interests** -->
 
