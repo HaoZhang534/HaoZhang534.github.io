@@ -33,7 +33,7 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **SEEM: Segment Everything Everywhere All at Once**.  
-Xueyan Zou*, Jianwei Yang*, Hao Zhang*, **Feng Li***, Linjie Li, Jianfeng Gao, Yong Jae Lee.   
+Xueyan Zou\*, Jianwei Yang\*, Hao Zhang\*, **Feng Li\***, Linjie Li, Jianfeng Gao, Yong Jae Lee.   
 arxiv 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2304.06718.pdf)[[**Code**]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
