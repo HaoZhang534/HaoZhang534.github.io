@@ -23,12 +23,12 @@ My research interests lie in computer vision, especially in fine-grained underst
 - \[2023/3\]: &nbsp;Three papers accepted to CVPR 2023! Check out our [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) , [Lite DETR](https://arxiv.org/pdf/2303.07335.pdf), and [MP-Former](https://arxiv.org/pdf/2303.07336.pdf).
 - \[2023/1\]: &nbsp;Two papers accepted to ICLR 2023! Check out our [DINO](https://arxiv.org/abs/2203.0360) and [ED-Pose](https://arxiv.org/pdf/2302.01593.pdf).
 - \[2022/6\]: &nbsp;Checkout our unified detection and segmentation model [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) that achieves **SOTA** results on all the three segmentation tasks ([COCO instance](https://paperswithcode.com/sota/instance-segmentation-on-coco-minival), [COCO panoptic](https://paperswithcode.com/sota/panoptic-segmentation-on-coco-minival), and [ADE20K semantic](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k))! Code is available [here](https://github.com/IDEACVR/MaskDINO).
-- \[2022/3\]: &nbsp;We release [DINO](https://arxiv.org/abs/2203.03605) that for the first time establishes a DETR-like model as a **SOTA** model on the [COCO object detection leaderboard](https://paperswithcode.com/sota/object-detection-on-coco).  Code is available [here](https://github.com/IDEACVR/DINO).
-- \[2022/3\]: &nbsp;Our [DN-DETR](https://arxiv.org/pdf/2203.01305) is selected for an **oral** presentation in **CVPR 2022**! Code is now avaliable [here](https://github.com/IDEA-opensource/DN-DETR).
+- \[2022/3\]: &nbsp; We release [DINO](https://arxiv.org/abs/2203.03605) that for the first time establishes a DETR-like model as a **SOTA** model on the [COCO object detection leaderboard](https://paperswithcode.com/sota/object-detection-on-coco).  Code is available [here](https://github.com/IDEACVR/DINO).
+- \[2022/3\]: &nbsp;Our [DN-DETR](https://arxiv.org/pdf/2203.01305) is selected for an **oral** presentation in **CVPR 2022**! Code is now available [here](https://github.com/IDEA-opensource/DN-DETR).
 
 
-# 📝 Selected Papers 
-Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAAAAJ&hl=zh-CN) for the full paper list.
+# 📝 Recent Works
+Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAAAAJ&hl=zh-CN) for the full list.
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
