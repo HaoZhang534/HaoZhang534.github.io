@@ -27,8 +27,8 @@ My research interests lie in computer vision, especially in fine-grained underst
 - \[2022/3\]: &nbsp;Our [DN-DETR](https://arxiv.org/pdf/2203.01305) is selected for an **oral** presentation in **CVPR 2022**! Code is now avaliable [here](https://github.com/IDEA-opensource/DN-DETR).
 
 
-# 📝 Selected Publications 
-Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAAAAJ&hl=zh-CN) for full publication list.
+# 📝 Selected Papers 
+Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAAAAJ&hl=zh-CN) for the full paper list.
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
