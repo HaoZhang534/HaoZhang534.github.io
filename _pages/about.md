@@ -37,6 +37,11 @@ Xueyan Zou\*, Jianwei Yang\*, Hao Zhang\*, **Feng Li\***, Linjie Li, Jianfeng Ga
 arxiv 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2304.06718.pdf)[[**Code**]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
+* **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**.  
+Shilong Liu, Zhaoyang Zeng, Tianhe Ren, **Feng Li**, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang.   
+arxiv 2023.  
+[[**Paper**]](https://arxiv.org/abs/2303.05499)[[**Code**]](https://github.com/IDEA-Research/GroundingDINO)
+
 * **Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR**.  
 **Feng Li**, Ailing Zeng, Shilong Liu, Hao Zhang, Lei Zhang, Lionel M. Ni.   
 CVPR 2023.  
