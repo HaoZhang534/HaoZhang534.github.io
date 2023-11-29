@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD (2021-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)) and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)). 
+I'm a third-year PhD (2021-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)) and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)). 
 Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. 
 <!-- I am always open to research discussions and collaborations. Feel free to get in touch! -->
 <!-- 
@@ -18,6 +18,7 @@ My research interests lie in computer vision, especially in fine-grained underst
 
 
 # 🔥 News
+- \[2023/9\]: &nbsp;[Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) ranks **9th** among [the most influential CVPR 2023 papers](https://www.paperdigest.org/2023/09/most-influential-cvpr-papers-2023-09/).
 - \[2023/4\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) ranks **2nd** among [the most influential ICLR 2023 papers](https://www.paperdigest.org/2023/04/most-influential-iclr-papers-2023-04/).
 - \[2023/3\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) and [DN-DETR](https://arxiv.org/pdf/2203.01305) are selected as [the top 100 most cited AI papers for 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022), rank 38 and 53, respectively.
 - \[2023/3\]: &nbsp;Three papers accepted to CVPR 2023! Check out our [Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) , [Lite DETR](https://arxiv.org/pdf/2303.07335.pdf), and [MP-Former](https://arxiv.org/pdf/2303.07336.pdf).
@@ -32,9 +33,14 @@ Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAA
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
+* **Semantic-SAM: Segment and Recognize Anything at Any Granularity**.  
+**Feng Li\***, Hao Zhang\*, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.                 
+arxiv 2023.  
+[[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
+
 * **SEEM: Segment Everything Everywhere All at Once**.  
 Xueyan Zou\*, Jianwei Yang\*, Hao Zhang\*, **Feng Li\***, Linjie Li, Jianfeng Gao, Yong Jae Lee.   
-arxiv 2023.  
+NeurIPS 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2304.06718.pdf)[[**Code**]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 
 * **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**.  
@@ -47,11 +53,6 @@ arxiv 2023.
 CVPR 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2303.07335.pdf)[[**Code**]](https://github.com/IDEA-Research/Lite-DETR)
 
-* **MP-Former: Mask-Piloted Transformer for Image Segmentation**.  
-Hao Zhang\*, **Feng Li**\*, Huaizhe Xu, Shijia Huang, Shilong Liu, Lionel M. Ni, Lei Zhang.  
-CVPR 2023.  
-[[**Paper**]](https://arxiv.org/pdf/2303.07336.pdf)[[**Code**]](https://github.com/IDEA-Research/MP-Former)
-
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**.  
@@ -63,11 +64,6 @@ CVPR 2023.
 Hao Zhang\*, **Feng Li**\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.   
 ICLR 2023.  
 [[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO) **Rank 2nd on ICLR 2023 Most Inflentical Papers**
-  
-* **Vision-Language Intelligence: Tasks, Representation Learning, and Large Models**.  
-**Feng Li**\*, Hao Zhang\*, Yi-Fan Zhang, Shilong Liu, Jian Guo, Lionel M Ni, PengChuan Zhang, Lei Zhang.     
-arxiv 2022.  
-[[**Paper**]](https://arxiv.org/abs/2203.01922)      
   
 * **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**.   
 **Feng Li**\*, Hao Zhang\*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.   
