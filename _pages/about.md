@@ -14,7 +14,9 @@ Previously, I obtained my bachelor’s degree from Computer Science and Technolo
 <!-- 
 **Research Interests** -->
 
-My research interests lie in computer vision, especially in fine-grained understanding to perceive the world, like object detection, segmentation, and multi-modal learning.
+📌My research interests lie in visual understanding/generation and multi-modal learning.
+
+✉️ Welcome to contact me for any discussion and cooperation!
 
 
 # 🔥 News
