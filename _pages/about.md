@@ -1,25 +1,26 @@
 ---
 permalink: /
 title: About Me
-excerpt: "Feng Li's Homepage"
+excerpt: "Hao Zhang's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third-year PhD (2021-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)) and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)). 
-Previously, I obtained my bachelor’s degree from Computer Science and Technology, South China University of Science and Technology in 2021. 
+I'm a 4th-year PhD (2020-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)) and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)). 
+Previously, I obtained my bachelor’s degree from School of Electronic Information and Electrical Engineering in Shanghai Jiao Tong University in 2019. 
 <!-- I am always open to research discussions and collaborations. Feel free to get in touch! -->
 <!-- 
 **Research Interests** -->
 
-📌My research interests lie in visual understanding/generation and multi-modal learning.
+📌My research interests lie in large multi-modal models, visual understanding and generation.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
 
 # 🔥 News
+- \[2023/12\]: &nbsp; [Demo](https://llava-grounding.deepdataspace.com/) and [inference code](https://github.com/UX-Decoder/LLaVA-Grounding) of [LLaVA-Grounding](https://arxiv.org/abs/2312.02949) is released.
 - \[2023/9\]: &nbsp;[Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) ranks **9th** among [the most influential CVPR 2023 papers](https://www.paperdigest.org/2023/09/most-influential-cvpr-papers-2023-09/).
 - \[2023/4\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) ranks **2nd** among [the most influential ICLR 2023 papers](https://www.paperdigest.org/2023/04/most-influential-iclr-papers-2023-04/).
 - \[2023/3\]: &nbsp;[DINO](https://arxiv.org/abs/2203.0360) and [DN-DETR](https://arxiv.org/pdf/2203.01305) are selected as [the top 100 most cited AI papers for 2022](https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022), rank 38 and 53, respectively.
@@ -31,51 +32,54 @@ Previously, I obtained my bachelor’s degree from Computer Science and Technolo
 
 
 # 📝 Recent Works
-Refer to my [google scholar](https://scholar.google.com/citations?user=ybRe9GcAAAAJ&hl=zh-CN) for the full list.
+Refer to my [google scholar](https://scholar.google.com/citations?user=B8hPxMQAAAAJ&hl=en) for the full list.
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
+* **LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**.  
+**Hao Zhang\***, Hongyang Li\*, Feng Li, Tianhe Ren, Xueyan Zou, Shilong Liu, Shijia Huang, Jianfeng Gao, Lei Zhang, Chunyuan Li, Jianwei Yang.                
+arxiv 2023.  
+[[**Paper**]](https://arxiv.org/abs/2312.02949)[[**Code**]](https://github.com/UX-Decoder/LLaVA-Grounding)
+
 * **Semantic-SAM: Segment and Recognize Anything at Any Granularity**.  
-**Feng Li\***, Hao Zhang\*, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.                 
+Feng Li\*, **Hao Zhang\***, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.                 
 arxiv 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
 
+* **OpenSeeD: A Simple Framework for Open-Vocabulary Segmentation and Detection**.  
+**Hao Zhang\***, Feng Li\*, Xueyan Zou\*, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang.
+ICCV 2023.  
+[[**Paper**]](https://arxiv.org/abs/2303.08131)[[**Code**]](https://github.com/IDEA-Research/OpenSeeD)
+
 * **SEEM: Segment Everything Everywhere All at Once**.  
-Xueyan Zou\*, Jianwei Yang\*, Hao Zhang\*, **Feng Li\***, Linjie Li, Jianfeng Gao, Yong Jae Lee.   
+Xueyan Zou\*, Jianwei Yang\*, **Hao Zhang\***, Feng Li\*, Linjie Li, Jianfeng Gao, Yong Jae Lee.   
 NeurIPS 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2304.06718.pdf)[[**Code**]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+
 
 * **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**.  
 Shilong Liu, Zhaoyang Zeng, Tianhe Ren, **Feng Li**, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang.   
 arxiv 2023.  
 [[**Paper**]](https://arxiv.org/abs/2303.05499)[[**Code**]](https://github.com/IDEA-Research/GroundingDINO)
 
-* **Lite DETR: An Interleaved Multi-Scale Encoder for Efficient DETR**.  
-**Feng Li**, Ailing Zeng, Shilong Liu, Hao Zhang, Lei Zhang, Lionel M. Ni.   
-CVPR 2023.  
-[[**Paper**]](https://arxiv.org/pdf/2303.07335.pdf)[[**Code**]](https://github.com/IDEA-Research/Lite-DETR)
 
 <!-- <div class='paper-box'>
 <div class='paper-box-text' markdown="1"> -->
 * **Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**.  
-**Feng Li**\*, Hao Zhang\*, Huaizhe Xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.   
+Feng Li\*, **Hao Zhang\***, Huaizhe Xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.   
 CVPR 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2206.02777.pdf)[[**Code**]](https://github.com/IDEACVR/MaskDINO)
 
 * **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**.  
-Hao Zhang\*, **Feng Li**\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.   
+**Hao Zhang\***, Feng Li\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.   
 ICLR 2023.  
 [[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO) **Rank 2nd on ICLR 2023 Most Inflentical Papers**
   
 * **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**.   
-**Feng Li**\*, Hao Zhang\*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.   
+Feng Li\*, **Hao Zhang\***, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.   
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022. **Oral** presentation.   
 [[**Paper**]](https://arxiv.org/pdf/2203.01305)[[**Code**]](https://github.com/FengLi-ust/DN-DETR)
  
-* **DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**.   
-Shilong Liu, **Feng Li**, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.    
-International Conference on Learning Representations (ICLR) 2022.    
-[[**Paper**]](https://arxiv.org/abs/2201.12329)[[**Code**]](https://github.com/SlongLiu/DAB-DETR)
 
 <!-- * BiCrowd: Online Bi-Objective Incentive Mechanism for Mobile Crowd Sensing.   
 Yi-Fan Zhang, Xinglin Zhang, and **Feng Li**.   
@@ -87,8 +91,8 @@ IEEE Internet of Things Journal (JCR Q1).
 
 _(* denotes equal contribution.)_
 # 🎖 Selected Awards
-* Hong Kong Postgraduate Scholoarship, 2021
-* Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), National first prize, 2019.
+* RedBird Research Scholarship in HKUST, 2020
+* Hong Kong Postgraduate Scholoarship, 2020, 2021, 2022 and 2023
 
 <!-- # 📖 Work experience
 * March 2021 - Now: Research Assistant
