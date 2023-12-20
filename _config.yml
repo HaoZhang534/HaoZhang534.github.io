@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "Shenzhen"
-title                    : "Feng Li"
+title                    : "Hao Zhang"
 title_separator          : "-"
-name                     : &name "Feng Li"
+name                     : &name "Hao Zhang"
 description              : &description "The first fear Ph.D. student @HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni. Current an Intern @IDEA."
-url                      : https://FengLi-ust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://haozhang534.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FengLi-ust/FengLi-ust.github.io" # TODO
+repository               : "HaoZhang534/HaoZhang534.github.io" # TODO
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feng Li (李峰)"
-  avatar           : "myphoto2.jpeg"
+  name             : "Hao Zhang (张浩)"
+  avatar           : "myphoto.jpeg"
   bio              :   # "First-fear Ph.D. student @HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni. Currently an Intern @IDEA."
   location         : "Shenzhen, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ybRe9GcAAAAJ"
-  email            : "fliay@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=B8hPxMQAAAAJ&hl=en"
+  email            : "hzhangcx@connect.ust.hk"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FengLi-ust"
+  github           : "HaoZhang534"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"hanlin-zhang-931b46143/"
+  linkedin         : "hao-zhang-3b09b8196/"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

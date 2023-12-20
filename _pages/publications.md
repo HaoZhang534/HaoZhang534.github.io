@@ -16,6 +16,11 @@ Feng Li\*, **Hao Zhang\***, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Ch
 arxiv 2023.  
 [[**Paper**]](https://arxiv.org/pdf/2307.04767.pdf)[[**Code**]](https://github.com/UX-Decoder/Semantic-SAM)
 
+* **SoM: Set-of-Mark Visual Prompting for GPT-4V**.  
+Jianwei Yang\*, **Hao Zhang\***,Feng Li\*, Xueyan Zou\*, Chunyuan Li, Jianfeng Gao.                 
+arxiv 2023.  
+[[**Paper**]](https://arxiv.org/pdf/2310.11441.pdf)[[**Code**]](https://github.com/microsoft/SoM)
+
 * **OpenSeeD: A Simple Framework for Open-Vocabulary Segmentation and Detection**.  
 **Hao Zhang\***, Feng Li\*, Xueyan Zou\*, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang.
 ICCV 2023.  
@@ -28,7 +33,7 @@ NeurIPS 2023.
 
 
 * **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**.  
-Shilong Liu, Zhaoyang Zeng, Tianhe Ren, **Feng Li**, Hao Zhang, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang.   
+Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, **Hao Zhang**, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang.   
 arxiv 2023.  
 [[**Paper**]](https://arxiv.org/abs/2303.05499)[[**Code**]](https://github.com/IDEA-Research/GroundingDINO)
 
