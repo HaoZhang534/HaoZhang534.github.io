@@ -20,6 +20,7 @@ Previously, I obtained my bachelor’s degree from School of Electronic Informat
 
 
 # 🔥 News
+- \[2023/12\]: The extended version of DN-DETR is accepted by TPAMI.
 - \[2023/12\]: &nbsp; [Demo](https://llava-grounding.deepdataspace.com/) and [inference code](https://github.com/UX-Decoder/LLaVA-Grounding) of [LLaVA-Grounding](https://arxiv.org/abs/2312.02949) is released.
 - \[2023/10\]: &nbsp; Our [SoM](https://som-gpt4v.github.io/) simply overlays a number of spatial and speakable marks on the images, to unleash the visual grounding abilities of large multimodal models (LMMs), such as GPT-4V.
 - \[2023/9\]: &nbsp;[Mask DINO](https://arxiv.org/pdf/2206.02777.pdf) ranks **9th** among [the most influential CVPR 2023 papers](https://www.paperdigest.org/2023/09/most-influential-cvpr-papers-2023-09/).
