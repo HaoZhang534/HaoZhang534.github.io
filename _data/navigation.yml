@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Blog"
-    url: /self-evolving-agents/
-
   #- title: "Talks"
   #  url: /talks/    
 
