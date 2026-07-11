@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 4th-year PhD (2020-now) student at the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)) and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)). 
-Previously, I obtained my bachelor’s degree from School of Electronic Information and Electrical Engineering in Shanghai Jiao Tong University in 2019. 
+I'm a Research Scientist at [NVIDIA Research](https://research.nvidia.com/), working on large multimodal models, visual understanding, and generation. I graduated in August 2024 from the [Department of Computer Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/), with a Ph.D. co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN) and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/)) and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)).
+Previously, I obtained my bachelor's degree from the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University in 2019.
 <!-- I am always open to research discussions and collaborations. Feel free to get in touch! -->
 <!-- 
 **Research Interests** -->
 
-📌My research interests lie in large multi-modal models, visual understanding and generation.
+📌My research interests lie in large multimodal models, visual understanding, and generation.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
@@ -129,4 +129,3 @@ platforms, and federal learning platforms.
 <a href="http://s01.flagcounter.com/more/k4"><img src="https://s01.flagcounter.com/map/k4/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <a href="https://info.flagcounter.com/PUlW"><img src="https://s01.flagcounter.com/mini/PUlW/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
-
