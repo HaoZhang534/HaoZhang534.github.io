@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Shenzhen"
+locale                   : "en-US"
 title                    : "Hao Zhang"
 title_separator          : "-"
 name                     : &name "Hao Zhang"
-description              : &description "The first fear Ph.D. student @HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni. Current an Intern @IDEA."
+description              : &description "Research Scientist at NVIDIA Research. Ph.D. from HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni."
 url                      : https://haozhang534.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaoZhang534/HaoZhang534.github.io" # TODO
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hao Zhang (张浩)"
   avatar           : "photo.jpg"
-  bio              :   # "First-fear Ph.D. student @HKUST, advised by Prof. Heung-Yeung Shum and Prof. Lionel M. Ni. Currently an Intern @IDEA."
-  location         : "Shenzhen, China"
-  employer         :
+  bio              : "Research Scientist at NVIDIA Research"
+  location         : "Santa Clara, CA, United States"
+  employer         : "NVIDIA Research"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B8hPxMQAAAAJ&hl=en"
   email            : "hzhangcx@connect.ust.hk"
