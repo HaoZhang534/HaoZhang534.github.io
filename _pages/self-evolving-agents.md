@@ -5,8 +5,6 @@ excerpt: "Reading notes by Hao Zhang"
 author_profile: true
 ---
 
-*Reading notes by Hao Zhang. Inspired by Shilong Liu's post, [A Taxonomy of Self-evolving Agents](https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/), published on July 8, 2026. This page is an original note and summary rather than a reproduction of the original article.*
-
 Self-evolving agents are becoming a useful umbrella idea for a growing family of systems: coding agents that improve their outputs through repeated verification, research agents that search for new hypotheses or algorithms, robots that improve policies through interaction, and LLM systems that update memory, prompts, tools, or even model parameters over time.
 
 My main takeaway is that "self-evolution" becomes much easier to reason about if we ask where the improvement happens. A useful decomposition is:
