@@ -22,8 +22,10 @@ Previously, I obtained my bachelor's degree from the School of Electronic Inform
 # 🔥 News
 - \[2026/07\]: [Molt](https://arxiv.org/abs/2607.21653), a scalable PyTorch-native training framework for agentic reinforcement learning, is released.
 - \[2026/05\]: [Polar](https://arxiv.org/abs/2605.24220), a scalable rollout framework for agentic RL on arbitrary harnesses, is released.
+- \[2026/04\]: [Nemotron 3 Nano Omni](https://arxiv.org/abs/2604.24954), an efficient open multimodal model, is released.
 - \[2026/03\]: [ProRL Agent](https://arxiv.org/abs/2603.18815), rollout-as-a-service for multi-turn LLM-agent RL training, is released and integrated with NVIDIA NeMo Gym.
 - \[2026/01\]: [Fast-dLLM](https://arxiv.org/abs/2505.22618) and [Fast-dLLM v2](https://arxiv.org/abs/2509.26328) are accepted to ICLR 2026.
+- \[2025/07\]: [Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B8hPxMQAAAAJ&sortby=pubdate&citation_for_view=B8hPxMQAAAAJ:NaGl4SEjCO4C) is released.
 - \[2025/03\]: [GR00T N1](https://arxiv.org/abs/2503.14734), an open foundation model for generalist humanoid robots, is released.
 - \[2025/01\]: [LLaVA-NeXT-Interleave](https://arxiv.org/abs/2407.07895) is accepted to ICLR 2025.
 
