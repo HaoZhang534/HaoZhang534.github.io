@@ -14,7 +14,7 @@ Previously, I obtained my bachelor's degree from the School of Electronic Inform
 <!-- 
 **Research Interests** -->
 
-📌 My research interests lie in large multimodal models, visual understanding and generation, agentic reinforcement learning, and efficient inference.
+📌 My research interests focus on agentic AI and reinforcement learning for scalable LLM agents, alongside multimodal intelligence and efficient inference.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
@@ -73,6 +73,7 @@ arXiv 2024.<br>
 
 _(* denotes equal contribution.)_
 # 🎖 Selected Awards
+* **CSE Best PhD Dissertation Award Honorable Mention, 2023-24**
 * RedBird Research Scholarship in HKUST, 2020
 * Hong Kong Postgraduate Scholoarship, 2020, 2021, 2022 and 2023
 
