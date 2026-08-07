@@ -28,9 +28,13 @@ Previously, I obtained my bachelor's degree from the School of Electronic Inform
 - \[2025/07\]: [Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B8hPxMQAAAAJ&sortby=pubdate&citation_for_view=B8hPxMQAAAAJ:NaGl4SEjCO4C) is released.
 - \[2025/03\]: [GR00T N1](https://arxiv.org/abs/2503.14734), an open foundation model for generalist humanoid robots, is released.
 - \[2025/01\]: [LLaVA-NeXT-Interleave](https://arxiv.org/abs/2407.07895) is accepted to ICLR 2025.
+- \[2024/09\]: [Grounding DINO](https://arxiv.org/abs/2303.05499), a highly cited open-set object detector, is presented at ECCV 2024.
+- \[2023/06\]: [Mask DINO](https://arxiv.org/abs/2206.02777), a unified framework for object detection and segmentation, is presented at CVPR 2023.
+- \[2023/05\]: [DINO](https://arxiv.org/abs/2203.03605), an end-to-end detector with improved denoising anchor boxes, is presented at ICLR 2023.
+- \[2022/06\]: [DN-DETR](https://arxiv.org/abs/2203.01305) is presented as a CVPR 2022 oral.
 
 
-# 📝 Selected Recent Works
+# 📝 Selected Recent & High-Impact Works
 For the complete and up-to-date publication list, please see my [Google Scholar](https://scholar.google.com/citations?user=B8hPxMQAAAAJ&hl=en).
 
 * **Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning**.<br>
@@ -72,6 +76,38 @@ ICLR 2025.<br>
 Bo Li, Yifan Zhang, Dong Guo, Renrui Zhang, Feng Li, **Hao Zhang**, Kaichen Zhang, Pengchuan Zhang, Yiming Li, *et al.*<br>
 arXiv 2024.<br>
 [[**Paper**]](https://arxiv.org/abs/2408.03326)
+
+**Earlier high-impact works**
+
+* **Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection**.<br>
+Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, **Hao Zhang**, Jie Yang, Chunyuan Li, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang.<br>
+ECCV 2024.<br>
+[[**Paper**]](https://arxiv.org/abs/2303.05499)[[**Code**]](https://github.com/IDEA-Research/GroundingDINO)
+
+* **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection**.<br>
+**Hao Zhang\***, Feng Li\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.<br>
+ICLR 2023.<br>
+[[**Paper**]](https://arxiv.org/abs/2203.03605)[[**Code**]](https://github.com/IDEACVR/DINO)
+
+* **DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR**.<br>
+Shilong Liu, Feng Li, **Hao Zhang**, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.<br>
+ICLR 2022.<br>
+[[**Paper**]](https://arxiv.org/abs/2201.12329)[[**Code**]](https://github.com/IDEACVR/DAB-DETR)
+
+* **DN-DETR: Accelerate DETR Training by Introducing Query DeNoising**.<br>
+Feng Li\*, **Hao Zhang\***, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.<br>
+CVPR 2022. **Oral** presentation.<br>
+[[**Paper**]](https://arxiv.org/abs/2203.01305)[[**Code**]](https://github.com/FengLi-ust/DN-DETR)
+
+* **SEEM: Segment Everything Everywhere All at Once**.<br>
+Xueyan Zou\*, Jianwei Yang\*, **Hao Zhang\***, Feng Li\*, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br>
+NeurIPS 2023.<br>
+[[**Paper**]](https://arxiv.org/abs/2304.06718)[[**Code**]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+
+* **Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation**.<br>
+Feng Li\*, **Hao Zhang\***, Huaizhe Xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.<br>
+CVPR 2023.<br>
+[[**Paper**]](https://arxiv.org/abs/2206.02777)[[**Code**]](https://github.com/IDEACVR/MaskDINO)
 
 _(* denotes equal contribution.)_
 # 🎖 Selected Awards
