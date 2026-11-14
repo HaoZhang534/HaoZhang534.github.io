@@ -20,6 +20,11 @@ Previously, I obtained my bachelor's degree from the School of Electronic Inform
 
 
 # 🔥 News
+- \[2026/11\]: [REINFORCE Zero](https://hijkzzz.github.io/REINFORCE-Zero/), on kernel alignment for stable asynchronous RL with importance sampling, is released.
+- \[2026/10\]: [Nemotron 3.5 Super and Lightning](https://arxiv.org/abs/2610.38095), open hybrid models for agentic AI, is released.
+- \[2026/10\]: [AgentBaton](https://arxiv.org/abs/2610.35959) and [LoGRA](https://arxiv.org/abs/2610.06647), on efficient agent collaboration and memory-efficient RL, are released.
+- \[2026/09\]: [Skill2Env](https://yifanzhang-pro.github.io/Skill2Env/) and [OSWorld-Pro](https://arxiv.org/abs/2609.24890), on training and evaluating agents, are released.
+- \[2026/09\]: [Agora](https://yifanzhang-pro.github.io/Agora/) and [FlashREINFORCE](https://yifanzhang-pro.github.io/FlashREINFORCE/), on collective AutoResearch and asynchronous agentic RL, are released.
 - \[2026/07\]: [Molt](https://arxiv.org/abs/2607.21653), a scalable PyTorch-native training framework for agentic reinforcement learning, is released.
 - \[2026/05\]: [Polar](https://arxiv.org/abs/2605.24220), a scalable rollout framework for agentic RL on arbitrary harnesses, is released.
 - \[2026/04\]: [Nemotron 3 Nano Omni](https://arxiv.org/abs/2604.24954), an efficient open multimodal model, is released.
@@ -37,8 +42,48 @@ Previously, I obtained my bachelor's degree from the School of Electronic Inform
 # 📝 Selected Recent & High-Impact Works
 For the complete and up-to-date publication list, please see my [Google Scholar](https://scholar.google.com/citations?user=B8hPxMQAAAAJ&hl=en).
 
+* **REINFORCE Zero: Kernel Alignment Unlocks Stable Asynchronous RL with Importance Sampling**.<br>
+Jian Hu, **Hao Zhang**, Yifan Zhang, Binfeng Xu, Ao Shen, Shaokun Zhang, Yunheng Zou, Yan Bai, Jan Kautz, Yi Dong.<br>
+Technical report, 2026.<br>
+[[**Paper**]](https://github.com/hijkzzz/REINFORCE-Zero/blob/main/REINFORCE-Zero.pdf) [[**Project**]](https://hijkzzz.github.io/REINFORCE-Zero/)
+
+* **Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI**.<br>
+NVIDIA, including **Hao Zhang**.<br>
+arXiv 2026.<br>
+[[**Paper**]](https://arxiv.org/abs/2610.38095)
+
+* **AgentBaton: Efficient Model Collaboration in Agentic Tasks**.<br>
+Junlong Li, Jindong Jiang, Yonggan Fu, Jiarui Yao, Hanrong Ye, Wonmin Byeon, Peter Belcak, **Hao Zhang**, Pavlo Molchanov.<br>
+arXiv 2026.<br>
+[[**Paper**]](https://arxiv.org/abs/2610.35959)
+
+* **LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches**.<br>
+Shaokun Zhang, Yifan Zhang, Jian Hu, Yueying Li, **Hao Zhang**, Binfeng Xu, Jan Kautz, Yi Dong.<br>
+arXiv 2026.<br>
+[[**Paper**]](https://arxiv.org/abs/2610.06647)
+
+* **Skill2Env: Reinforcing Agents with Collective Skills**.<br>
+Binfeng Xu, Jian Hu, **Hao Zhang**, Shaokun Zhang, Yifan Zhang, Michael Demoret, Jan Kautz, Yi Dong.<br>
+Technical report, 2026.<br>
+[[**Paper**]](https://www.alphaxiv.org/abs/2609.reinforcing-agents-collective-skills) [[**Project**]](https://yifanzhang-pro.github.io/Skill2Env/)
+
+* **OSWorld-Pro: Process-based Evaluation for Computer Use Agents**.<br>
+Zhilin Wang, Shaokun Zhang, Yifan Zhang, **Hao Zhang**, Jin Xu, Binfeng Xu, Jian Hu, Yunheng Zou, Karan Sapra, Andrew Tao, Jan Kautz, Yi Dong.<br>
+arXiv 2026.<br>
+[[**Paper**]](https://arxiv.org/abs/2609.24890)
+
+* **Agora: Git as Shared Memory for Collective AutoResearch**.<br>
+Yifan Zhang, Yunheng Zou, Shaokun Zhang, Jian Hu, **Hao Zhang**, Binfeng Xu, Jan Kautz, Yi Dong.<br>
+NeurIPS 2026 AutoMLR Workshop. **Oral** presentation. arXiv 2026.<br>
+[[**Paper**]](https://arxiv.org/abs/2609.18094) [[**Project**]](https://yifanzhang-pro.github.io/Agora/)
+
+* **FlashREINFORCE: Critic-Free Single-Rollout Asynchronous RL for Agentic Language Models**.<br>
+Jian Hu\*, Yifan Zhang\*, **Hao Zhang\***, Binfeng Xu\*, Shaokun Zhang, Hongqing Peng, Zhiding Yu, Pavlo Molchanov, Jan Kautz, Yi Dong.<br>
+Technical report, 2026.<br>
+[[**Paper**]](https://yifanzhang-pro.github.io/FlashREINFORCE/FlashREINFORCE.pdf) [[**Project**]](https://yifanzhang-pro.github.io/FlashREINFORCE/)
+
 * **Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning**.<br>
-Jian Hu, Hongyu Li, **Hao Zhang**, Binfeng Xu, Yuchi Zhang, Shaokun Zhang, Harshil Desai, Michael Demoret, *et al.*<br>
+Jian Hu, Huiying Li, **Hao Zhang**, Binfeng Xu, Yifan Zhang, Shaokun Zhang, Hemil Desai, Michael Demoret, Pavlo Molchanov, Jan Kautz, Yi Dong.<br>
 arXiv 2026.<br>
 [[**Paper**]](https://arxiv.org/abs/2607.21653)
 
