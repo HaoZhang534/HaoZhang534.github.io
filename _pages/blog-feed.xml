@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /blog/feed.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>Hao Zhang — Research Blog</title><link>{{ '/blog/' | absolute_url | xml_escape }}</link><description>Notes on agents, reinforcement learning, and the systems behind them.</description><language>en</language><lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+{% assign notes = site.posts | where: 'research_post', true | sort: 'research_order' %}{% for post in notes %}<item><title>{{ post.title | xml_escape }}</title><link>{{ post.url | absolute_url | xml_escape }}</link><guid>{{ post.url | absolute_url | xml_escape }}</guid><pubDate>{{ post.date | date_to_rfc822 }}</pubDate><description>{{ post.excerpt | xml_escape }}</description></item>{% endfor %}
+</channel></rss>

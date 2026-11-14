@@ -1,0 +1,28 @@
+---
+layout: research
+---
+<section class="hero hero-note">
+  <div class="shell">
+    <a class="back-link" href="{{ '/blog/' | relative_url }}">← All research notes</a>
+    <p class="eyebrow">{{ page.topic }} · Paper explained</p>
+    <h1>{{ page.title }}</h1>
+    <p class="hero-summary">{{ page.excerpt }}</p>
+    <div class="note-byline">Hao Zhang <span aria-hidden="true">/</span> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time> <span aria-hidden="true">/</span> {{ content | strip_html | number_of_words | divided_by: 180 | plus: 1 }} min read</div>
+  </div>
+</section>
+<div class="shell reading-layout">
+  <aside class="source-panel" aria-label="About this paper">
+    <p class="eyebrow">The research</p>
+    <p class="source-title">{{ page.paper_title }}</p>
+    <p>{{ page.paper_authors }}</p>
+    <p>{{ page.paper_date | date: '%B %Y' }} · {{ page.paper_kind }}</p>
+    <a href="{{ page.paper_url }}">Read the paper ↗</a>
+    {% if page.project_url %}<a href="{{ page.project_url }}">Project & resources ↗</a>{% endif %}
+    <p class="source-note">This note explains the linked work. Blog publication date and paper release date are shown separately.</p>
+  </aside>
+  <article class="article-body">
+    {{ content }}
+    <hr>
+    <p class="note-end"><a href="{{ '/blog/' | relative_url }}">← Explore all notes on agents & RL</a></p>
+  </article>
+</div>

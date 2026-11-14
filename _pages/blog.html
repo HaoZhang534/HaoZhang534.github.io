@@ -1,0 +1,44 @@
+---
+layout: research
+title: "Research Blog"
+permalink: /blog/
+excerpt: "Research notes on agentic AI, reinforcement learning, training systems, and multimodal agents by Hao Zhang."
+---
+{% assign notes = site.posts | where: 'research_post', true | sort: 'research_order' %}
+<section class="hero hero-blog">
+  <div class="shell">
+    <p class="eyebrow">Hao Zhang · Research notes</p>
+    <h1>Thinking about<br>agents & learning.</h1>
+    <p class="hero-summary">The ideas behind the papers. Notes on building, training, and understanding capable language agents.</p>
+    <div class="hero-bottom"><span>{{ notes.size }} notes · 2025–2026 research</span><a href="#notes">Explore the writing ↓</a></div>
+  </div>
+</section>
+<section class="section shell" id="notes">
+  <div class="section-heading"><div><p class="eyebrow">Writing</p><h2>From research to intuition.</h2></div><a class="text-link" href="{{ '/blog/feed.xml' | relative_url }}">Follow via RSS ↗</a></div>
+  <p class="section-intro">Each note walks through the problem, the mechanism, the evidence, and what to take away. Start with a topic, or read the complete series below.</p>
+  <div class="topic-filters" role="group" aria-label="Filter research notes by topic">
+    <button type="button" data-filter="all" aria-pressed="true">All notes <span>{{ notes.size }}</span></button>
+    <button type="button" data-filter="algorithms" aria-pressed="false">RL algorithms</button>
+    <button type="button" data-filter="systems" aria-pressed="false">Agent systems</button>
+    <button type="button" data-filter="data" aria-pressed="false">Data & evaluation</button>
+    <button type="button" data-filter="models" aria-pressed="false">Agent models</button>
+  </div>
+  <p class="filter-status" aria-live="polite" aria-atomic="true">{{ notes.size }} notes</p>
+  <div class="note-list">
+    {% for post in notes %}
+    <article class="note-row" data-topic="{{ post.topic_key }}">
+      <div class="note-row-meta"><span class="eyebrow">{{ post.topic }}</span><span>Paper · {{ post.paper_date | date: '%b %Y' }}</span></div>
+      <div><h3><a href="{{ post.url | relative_url }}">{{ post.title }} <span class="row-arrow" aria-hidden="true">↗</span></a></h3><p>{{ post.excerpt }}</p><a class="text-link" href="{{ post.url | relative_url }}">Read the note <span aria-hidden="true">→</span></a></div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+<section class="reading-path">
+  <div class="shell"><p class="eyebrow">A way through the series</p><h2>Follow the training loop.</h2>
+    <div class="path-grid">
+      <div><span class="path-number">01</span><h3>Collect experience</h3><p>How agents act, how environments run, and how trajectories reach the learner.</p><a href="{{ '/blog/prorl-agent/' | relative_url }}">ProRL Agent</a> · <a href="{{ '/blog/polar/' | relative_url }}">Polar</a> · <a href="{{ '/blog/molt/' | relative_url }}">Molt</a></div>
+      <div><span class="path-number">02</span><h3>Learn from it</h3><p>Stable asynchronous updates, compact gradients, and longer training runs.</p><a href="{{ '/blog/flashreinforce/' | relative_url }}">FlashREINFORCE</a> · <a href="{{ '/blog/reinforce-zero/' | relative_url }}">REINFORCE Zero</a> · <a href="{{ '/blog/logra/' | relative_url }}">LoGRA</a></div>
+      <div><span class="path-number">03</span><h3>Measure what changed</h3><p>Training tasks, process-level evaluation, and shared evidence for research agents.</p><a href="{{ '/blog/skill2env/' | relative_url }}">Skill2Env</a> · <a href="{{ '/blog/osworld-pro/' | relative_url }}">OSWorld-Pro</a> · <a href="{{ '/blog/agora/' | relative_url }}">Agora</a></div>
+    </div>
+  </div>
+</section>

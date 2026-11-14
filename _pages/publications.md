@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: research-publications
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -11,67 +11,67 @@ For the complete and up-to-date publication list, please see my [Google Scholar]
 * **REINFORCE Zero: Kernel Alignment Unlocks Stable Asynchronous RL with Importance Sampling**.<br>
 Jian Hu, **Hao Zhang**, Yifan Zhang, Binfeng Xu, Ao Shen, Shaokun Zhang, Yunheng Zou, Yan Bai, Jan Kautz, Yi Dong.<br>
 Technical report, 2026.<br>
-[[**Paper**]](https://github.com/hijkzzz/REINFORCE-Zero/blob/main/REINFORCE-Zero.pdf) [[**Project**]](https://hijkzzz.github.io/REINFORCE-Zero/)
+[[**Paper**]](https://github.com/hijkzzz/REINFORCE-Zero/blob/main/REINFORCE-Zero.pdf) [[**Blog**]](/blog/reinforce-zero/) [[**Project**]](https://hijkzzz.github.io/REINFORCE-Zero/)
 
 * **Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI**.<br>
 NVIDIA, including **Hao Zhang**.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2610.38095)
+[[**Paper**]](https://arxiv.org/abs/2610.38095) [[**Blog**]](/blog/nemotron-35/)
 
 * **AgentBaton: Efficient Model Collaboration in Agentic Tasks**.<br>
 Junlong Li, Jindong Jiang, Yonggan Fu, Jiarui Yao, Hanrong Ye, Wonmin Byeon, Peter Belcak, **Hao Zhang**, Pavlo Molchanov.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2610.35959)
+[[**Paper**]](https://arxiv.org/abs/2610.35959) [[**Blog**]](/blog/agentbaton/)
 
 * **LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches**.<br>
 Shaokun Zhang, Yifan Zhang, Jian Hu, Yueying Li, **Hao Zhang**, Binfeng Xu, Jan Kautz, Yi Dong.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2610.06647)
+[[**Paper**]](https://arxiv.org/abs/2610.06647) [[**Blog**]](/blog/logra/)
 
 * **Skill2Env: Reinforcing Agents with Collective Skills**.<br>
 Binfeng Xu, Jian Hu, **Hao Zhang**, Shaokun Zhang, Yifan Zhang, Michael Demoret, Jan Kautz, Yi Dong.<br>
 Technical report, 2026.<br>
-[[**Paper**]](https://www.alphaxiv.org/abs/2609.reinforcing-agents-collective-skills) [[**Project**]](https://yifanzhang-pro.github.io/Skill2Env/)
+[[**Paper**]](https://www.alphaxiv.org/abs/2609.reinforcing-agents-collective-skills) [[**Blog**]](/blog/skill2env/) [[**Project**]](https://yifanzhang-pro.github.io/Skill2Env/)
 
 * **OSWorld-Pro: Process-based Evaluation for Computer Use Agents**.<br>
 Zhilin Wang, Shaokun Zhang, Yifan Zhang, **Hao Zhang**, Jin Xu, Binfeng Xu, Jian Hu, Yunheng Zou, Karan Sapra, Andrew Tao, Jan Kautz, Yi Dong.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2609.24890)
+[[**Paper**]](https://arxiv.org/abs/2609.24890) [[**Blog**]](/blog/osworld-pro/)
 
 * **Agora: Git as Shared Memory for Collective AutoResearch**.<br>
 Yifan Zhang, Yunheng Zou, Shaokun Zhang, Jian Hu, **Hao Zhang**, Binfeng Xu, Jan Kautz, Yi Dong.<br>
 NeurIPS 2026 AutoMLR Workshop. **Oral** presentation. arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2609.18094) [[**Project**]](https://yifanzhang-pro.github.io/Agora/)
+[[**Paper**]](https://arxiv.org/abs/2609.18094) [[**Blog**]](/blog/agora/) [[**Project**]](https://yifanzhang-pro.github.io/Agora/)
 
 * **FlashREINFORCE: Critic-Free Single-Rollout Asynchronous RL for Agentic Language Models**.<br>
 Jian Hu\*, Yifan Zhang\*, **Hao Zhang\***, Binfeng Xu\*, Shaokun Zhang, Hongqing Peng, Zhiding Yu, Pavlo Molchanov, Jan Kautz, Yi Dong.<br>
 Technical report, 2026.<br>
-[[**Paper**]](https://yifanzhang-pro.github.io/FlashREINFORCE/FlashREINFORCE.pdf) [[**Project**]](https://yifanzhang-pro.github.io/FlashREINFORCE/)
+[[**Paper**]](https://yifanzhang-pro.github.io/FlashREINFORCE/FlashREINFORCE.pdf) [[**Blog**]](/blog/flashreinforce/) [[**Project**]](https://yifanzhang-pro.github.io/FlashREINFORCE/)
 
 * **Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning**.<br>
 Jian Hu, Huiying Li, **Hao Zhang**, Binfeng Xu, Yifan Zhang, Shaokun Zhang, Hemil Desai, Michael Demoret, Pavlo Molchanov, Jan Kautz, Yi Dong.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2607.21653)
+[[**Paper**]](https://arxiv.org/abs/2607.21653) [[**Blog**]](/blog/molt/)
 
 * **ProCUA-SFT Technical Report**.<br>
 Jaehun Jung, Ximing Lu, Brandon Cui, Muhammad Khalifa, Shaokun Zhang, **Hao Zhang**, Jin Xu, Amala Sanjay Deshmukh, Karan Sapra, Andrew Tao, Yejin Choi, Jan Kautz, Mingjie Liu, Yi Dong.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2606.17321)
+[[**Paper**]](https://arxiv.org/abs/2606.17321) [[**Blog**]](/blog/procua-sft/)
 
 * **Polar: Agentic RL on Any Harness at Scale**.<br>
 Binfeng Xu, **Hao Zhang**, Shaokun Zhang, Songyang Han, Mingjie Liu, Jian Hu, Shizhe Diao, Zhenghui Jin, Yunheng Zou, Michael Demoret, Jan Kautz, Yi Dong.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2605.24220)
+[[**Paper**]](https://arxiv.org/abs/2605.24220) [[**Blog**]](/blog/polar/)
 
 * **Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence**.<br>
 NVIDIA, including **Hao Zhang**.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2604.24954)
+[[**Paper**]](https://arxiv.org/abs/2604.24954) [[**Blog**]](/blog/nemotron-nano-omni/)
 
 * **ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents**.<br>
 **Hao Zhang**, Mingjie Liu, Shaokun Zhang, Songyang Han, Jian Hu, Zhenghui Jin, Yuchi Zhang, Shizhe Diao, Ximing Lu, Binfeng Xu, Zhiding Yu, Jan Kautz, Yi Dong.<br>
 arXiv 2026.<br>
-[[**Paper**]](https://arxiv.org/abs/2603.18815)
+[[**Paper**]](https://arxiv.org/abs/2603.18815) [[**Blog**]](/blog/prorl-agent/)
 
 * **SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer**.<br>
 Junsong Chen, Yuyang Zhao, Jincheng Yu, Ruihang Chu, Junyu Chen, Shuai Yang, Xianbang Wang, Yicheng Pan, Daquan Zhou, Huan Ling, Haozhe Liu, Hongwei Yi, **Hao Zhang**, Muyang Li, Yukang Chen, Han Cai, Sanja Fidler, Ping Luo, Song Han, Enze Xie.<br>

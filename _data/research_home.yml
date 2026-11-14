@@ -1,0 +1,261 @@
+biography: 'I''m a Research Scientist at [NVIDIA Research](https://research.nvidia.com/), focusing on agentic AI
+  and reinforcement learning for capable, scalable LLM agents. My research also spans large multimodal models, visual
+  understanding, and efficient generative inference. I graduated in August 2024 from the [Department of Computer
+  Science & Engineering](https://cse.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/),
+  with a Ph.D. co-supervised by Prof. [Heung-Yeung Shum](https://scholar.google.com/citations?user=9akH-n8AAAAJ&hl=zh-CN)
+  and Prof. [Lionel M. Ni](https://scholar.google.com/citations?user=OzMYwDIAAAAJ&hl=zh-CN). I interned at [International
+  Digital Economy Academy, Shenzhen](https://idea.edu.cn/) (advised by Prof. [Lei Zhang](https://www.leizhang.org/))
+  and [Microsoft Research, Redmond](https://www.microsoft.com/en-us/research/group/deep-learning-group/) (advised
+  by Dr. [Jianwei Yang](https://jwyang.github.io/) and Dr. [Chunyuan Li](https://chunyuan.li/)).
+
+  Previously, I obtained my bachelor''s degree from the School of Electronic Information and Electrical Engineering
+  at Shanghai Jiao Tong University in 2019.'
+recent:
+- title: 'REINFORCE Zero: Kernel Alignment Unlocks Stable Asynchronous RL with Importance Sampling'
+  authors: Jian Hu, **Hao Zhang**, Yifan Zhang, Binfeng Xu, Ao Shen, Shaokun Zhang, Yunheng Zou, Yan Bai, Jan Kautz,
+    Yi Dong.
+  venue: Technical report, 2026.
+  paper: https://github.com/hijkzzz/REINFORCE-Zero/blob/main/REINFORCE-Zero.pdf
+  links:
+  - label: Paper
+    url: https://github.com/hijkzzz/REINFORCE-Zero/blob/main/REINFORCE-Zero.pdf
+  - label: Project
+    url: https://hijkzzz.github.io/REINFORCE-Zero/
+  blog: /blog/reinforce-zero/
+- title: 'Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for
+    Agentic AI'
+  authors: NVIDIA, including **Hao Zhang**.
+  venue: arXiv 2026.
+  paper: https://arxiv.org/abs/2610.38095
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2610.38095
+  blog: /blog/nemotron-35/
+- title: 'AgentBaton: Efficient Model Collaboration in Agentic Tasks'
+  authors: Junlong Li, Jindong Jiang, Yonggan Fu, Jiarui Yao, Hanrong Ye, Wonmin Byeon, Peter Belcak, **Hao Zhang**,
+    Pavlo Molchanov.
+  venue: arXiv 2026.
+  paper: https://arxiv.org/abs/2610.35959
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2610.35959
+  blog: /blog/agentbaton/
+- title: 'LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches'
+  authors: Shaokun Zhang, Yifan Zhang, Jian Hu, Yueying Li, **Hao Zhang**, Binfeng Xu, Jan Kautz, Yi Dong.
+  venue: arXiv 2026.
+  paper: https://arxiv.org/abs/2610.06647
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2610.06647
+  blog: /blog/logra/
+- title: 'Skill2Env: Reinforcing Agents with Collective Skills'
+  authors: Binfeng Xu, Jian Hu, **Hao Zhang**, Shaokun Zhang, Yifan Zhang, Michael Demoret, Jan Kautz, Yi Dong.
+  venue: Technical report, 2026.
+  paper: https://www.alphaxiv.org/abs/2609.reinforcing-agents-collective-skills
+  links:
+  - label: Paper
+    url: https://www.alphaxiv.org/abs/2609.reinforcing-agents-collective-skills
+  - label: Project
+    url: https://yifanzhang-pro.github.io/Skill2Env/
+  blog: /blog/skill2env/
+- title: 'OSWorld-Pro: Process-based Evaluation for Computer Use Agents'
+  authors: Zhilin Wang, Shaokun Zhang, Yifan Zhang, **Hao Zhang**, Jin Xu, Binfeng Xu, Jian Hu, Yunheng Zou, Karan
+    Sapra, Andrew Tao, Jan Kautz, Yi Dong.
+  venue: arXiv 2026.
+  paper: https://arxiv.org/abs/2609.24890
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2609.24890
+  blog: /blog/osworld-pro/
+- title: 'Agora: Git as Shared Memory for Collective AutoResearch'
+  authors: Yifan Zhang, Yunheng Zou, Shaokun Zhang, Jian Hu, **Hao Zhang**, Binfeng Xu, Jan Kautz, Yi Dong.
+  venue: NeurIPS 2026 AutoMLR Workshop. **Oral** presentation. arXiv 2026.
+  paper: https://arxiv.org/abs/2609.18094
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2609.18094
+  - label: Project
+    url: https://yifanzhang-pro.github.io/Agora/
+  blog: /blog/agora/
+- title: 'FlashREINFORCE: Critic-Free Single-Rollout Asynchronous RL for Agentic Language Models'
+  authors: Jian Hu\*, Yifan Zhang\*, **Hao Zhang\***, Binfeng Xu\*, Shaokun Zhang, Hongqing Peng, Zhiding Yu, Pavlo
+    Molchanov, Jan Kautz, Yi Dong.
+  venue: Technical report, 2026.
+  paper: https://yifanzhang-pro.github.io/FlashREINFORCE/FlashREINFORCE.pdf
+  links:
+  - label: Paper
+    url: https://yifanzhang-pro.github.io/FlashREINFORCE/FlashREINFORCE.pdf
+  - label: Project
+    url: https://yifanzhang-pro.github.io/FlashREINFORCE/
+  blog: /blog/flashreinforce/
+- title: 'Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning'
+  authors: Jian Hu, Huiying Li, **Hao Zhang**, Binfeng Xu, Yifan Zhang, Shaokun Zhang, Hemil Desai, Michael Demoret,
+    Pavlo Molchanov, Jan Kautz, Yi Dong.
+  venue: arXiv 2026.
+  paper: https://arxiv.org/abs/2607.21653
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2607.21653
+  blog: /blog/molt/
+- title: 'Polar: Agentic RL on Any Harness at Scale'
+  authors: Binfeng Xu, **Hao Zhang**, Shaokun Zhang, Songyang Han, Mingjie Liu, Jian Hu, Shizhe Diao, Zhenghui Jin,
+    Yunheng Zou, Michael Demoret, Jan Kautz, Yi Dong.
+  venue: arXiv 2026.
+  paper: https://arxiv.org/abs/2605.24220
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2605.24220
+  blog: /blog/polar/
+- title: 'ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents'
+  authors: '**Hao Zhang**, Mingjie Liu, Shaokun Zhang, Songyang Han, Jian Hu, Zhenghui Jin, Yuchi Zhang, Shizhe
+    Diao, Ximing Lu, Binfeng Xu, Zhiding Yu, Jan Kautz, Yi Dong.'
+  venue: arXiv 2026.
+  paper: https://arxiv.org/abs/2603.18815
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2603.18815
+  blog: /blog/prorl-agent/
+- title: 'Fast-dLLM v2: Efficient Block-Diffusion LLM'
+  authors: Chengyue Wu, **Hao Zhang**, Shuchen Xue, Shizhe Diao, Yonggan Fu, Zhijian Liu, Pavlo Molchanov, Ping
+    Luo, Song Han, Enze Xie.
+  venue: ICLR 2026.
+  paper: https://arxiv.org/abs/2509.26328
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2509.26328
+- title: 'Fast-dLLM: Training-Free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding'
+  authors: Chengyue Wu, **Hao Zhang**, Shuchen Xue, Zhijian Liu, Shizhe Diao, Ligeng Zhu, Ping Luo, Song Han, Enze
+    Xie.
+  venue: ICLR 2026.
+  paper: https://arxiv.org/abs/2505.22618
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2505.22618
+- title: 'GR00T N1: An Open Foundation Model for Generalist Humanoid Robots'
+  authors: Jim Bjorck, Francisco Castañeda, Nima Cherniadev, Xiaolong Da, Rui Ding, Linxi Fan, Yifan Fang, Dieter
+    Fox, *et al.*, including **Hao Zhang**.
+  venue: arXiv 2025.
+  paper: https://arxiv.org/abs/2503.14734
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2503.14734
+- title: 'LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models'
+  authors: Feng Li\*, Rui Zhang\*, **Hao Zhang\***, Yifan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li.
+  venue: ICLR 2025.
+  paper: https://arxiv.org/abs/2407.07895
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2407.07895
+- title: 'LLaVA-OneVision: Easy Visual Task Transfer'
+  authors: Bo Li, Yifan Zhang, Dong Guo, Renrui Zhang, Feng Li, **Hao Zhang**, Kaichen Zhang, Pengchuan Zhang, Yiming
+    Li, *et al.*
+  venue: arXiv 2024.
+  paper: https://arxiv.org/abs/2408.03326
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2408.03326
+earlier:
+- title: 'Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection'
+  authors: Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, **Hao Zhang**, Jie Yang, Chunyuan Li, Jianwei Yang,
+    Hang Su, Jun Zhu, Lei Zhang.
+  venue: ECCV 2024.
+  paper: https://arxiv.org/abs/2303.05499
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2303.05499
+  - label: Code
+    url: https://github.com/IDEA-Research/GroundingDINO
+- title: 'DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection'
+  authors: '**Hao Zhang\***, Feng Li\*, Shilong Liu\*, Lei Zhang, Hang Su, Jun Zhu, Lionel M. Ni, Heung-Yeung Shum.'
+  venue: ICLR 2023.
+  paper: https://arxiv.org/abs/2203.03605
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2203.03605
+  - label: Code
+    url: https://github.com/IDEACVR/DINO
+- title: 'DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR'
+  authors: Shilong Liu, Feng Li, **Hao Zhang**, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.
+  venue: ICLR 2022.
+  paper: https://arxiv.org/abs/2201.12329
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2201.12329
+  - label: Code
+    url: https://github.com/IDEACVR/DAB-DETR
+- title: 'DN-DETR: Accelerate DETR Training by Introducing Query DeNoising'
+  authors: Feng Li\*, **Hao Zhang\***, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.
+  venue: CVPR 2022. **Oral** presentation.
+  paper: https://arxiv.org/abs/2203.01305
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2203.01305
+  - label: Code
+    url: https://github.com/FengLi-ust/DN-DETR
+- title: 'SEEM: Segment Everything Everywhere All at Once'
+  authors: Xueyan Zou\*, Jianwei Yang\*, **Hao Zhang\***, Feng Li\*, Linjie Li, Jianfeng Gao, Yong Jae Lee.
+  venue: NeurIPS 2023.
+  paper: https://arxiv.org/abs/2304.06718
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2304.06718
+  - label: Code
+    url: https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once
+- title: 'Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation'
+  authors: Feng Li\*, **Hao Zhang\***, Huaizhe Xu, Shilong Liu, Lei Zhang, Lionel M. Ni, Heung-Yeung Shum.
+  venue: CVPR 2023.
+  paper: https://arxiv.org/abs/2206.02777
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2206.02777
+  - label: Code
+    url: https://github.com/IDEACVR/MaskDINO
+news:
+- date: 2026/11
+  text: '[REINFORCE Zero](https://hijkzzz.github.io/REINFORCE-Zero/), on kernel alignment for stable asynchronous
+    RL with importance sampling, is released.'
+- date: 2026/10
+  text: '[Nemotron 3.5 Super and Lightning](https://arxiv.org/abs/2610.38095), open hybrid models for agentic AI,
+    is released.'
+- date: 2026/10
+  text: '[AgentBaton](https://arxiv.org/abs/2610.35959) and [LoGRA](https://arxiv.org/abs/2610.06647), on efficient
+    agent collaboration and memory-efficient RL, are released.'
+- date: 2026/09
+  text: '[Skill2Env](https://yifanzhang-pro.github.io/Skill2Env/) and [OSWorld-Pro](https://arxiv.org/abs/2609.24890),
+    on training and evaluating agents, are released.'
+- date: 2026/09
+  text: '[Agora](https://yifanzhang-pro.github.io/Agora/) and [FlashREINFORCE](https://yifanzhang-pro.github.io/FlashREINFORCE/),
+    on collective AutoResearch and asynchronous agentic RL, are released.'
+- date: 2026/07
+  text: '[Molt](https://arxiv.org/abs/2607.21653), a scalable PyTorch-native training framework for agentic reinforcement
+    learning, is released.'
+- date: 2026/05
+  text: '[Polar](https://arxiv.org/abs/2605.24220), a scalable rollout framework for agentic RL on arbitrary harnesses,
+    is released.'
+- date: 2026/04
+  text: '[Nemotron 3 Nano Omni](https://arxiv.org/abs/2604.24954), an efficient open multimodal model, is released.'
+- date: 2026/03
+  text: '[ProRL Agent](https://arxiv.org/abs/2603.18815), rollout-as-a-service for multi-turn LLM-agent RL training,
+    is released and integrated with NVIDIA NeMo Gym.'
+- date: 2026/01
+  text: '[Fast-dLLM](https://arxiv.org/abs/2505.22618) and [Fast-dLLM v2](https://arxiv.org/abs/2509.26328) are
+    accepted to ICLR 2026.'
+- date: 2025/07
+  text: '[Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B8hPxMQAAAAJ&sortby=pubdate&citation_for_view=B8hPxMQAAAAJ:NaGl4SEjCO4C)
+    is released.'
+- date: 2025/03
+  text: '[GR00T N1](https://arxiv.org/abs/2503.14734), an open foundation model for generalist humanoid robots,
+    is released.'
+- date: 2025/01
+  text: '[LLaVA-NeXT-Interleave](https://arxiv.org/abs/2407.07895) is accepted to ICLR 2025.'
+- date: 2024/09
+  text: '[Grounding DINO](https://arxiv.org/abs/2303.05499), a highly cited open-set object detector, is presented
+    at ECCV 2024.'
+- date: 2023/06
+  text: '[Mask DINO](https://arxiv.org/abs/2206.02777), a unified framework for object detection and segmentation,
+    is presented at CVPR 2023.'
+- date: 2023/05
+  text: '[DINO](https://arxiv.org/abs/2203.03605), an end-to-end detector with improved denoising anchor boxes,
+    is presented at ICLR 2023.'
+- date: 2022/06
+  text: '[DN-DETR](https://arxiv.org/abs/2203.01305) is presented as a CVPR 2022 oral.'

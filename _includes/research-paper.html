@@ -1,0 +1,7 @@
+{% assign work = include.work %}
+<li class="paper-row">
+  <h3><a href="{{ work.paper }}">{{ work.title | escape }} <span class="row-arrow" aria-hidden="true">↗</span></a></h3>
+  <div class="authors">{{ work.authors | markdownify }}</div>
+  <div class="venue">{{ work.venue | markdownify }}</div>
+  <div class="paper-links">{% for link in work.links %}<a href="{{ link.url }}">{{ link.label }} ↗</a>{% endfor %}{% if work.blog %}<a href="{{ work.blog | relative_url }}">Blog →</a>{% endif %}</div>
+</li>

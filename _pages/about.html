@@ -1,0 +1,46 @@
+---
+layout: research
+title: "Hao Zhang — AI Research"
+permalink: /
+excerpt: "Hao Zhang, Research Scientist at NVIDIA Research. Agentic AI, reinforcement learning, multimodal intelligence, and efficient inference."
+redirect_from:
+  - /about/
+  - /about.html
+---
+{% assign notes = site.posts | where: 'research_post', true | sort: 'research_order' %}
+<section class="hero hero-home">
+  <div class="shell">
+    <p class="eyebrow">NVIDIA Research · Santa Clara, California</p>
+    <h1>Hao Zhang<span class="name-native" lang="zh">张浩</span></h1>
+    <p class="hero-summary">Research Scientist working on <strong>agentic AI and reinforcement learning</strong> for capable, scalable language agents. Exploring multimodal intelligence, visual understanding, and efficient inference.</p>
+    <nav class="hero-links" aria-label="Contact and research profiles"><a href="mailto:hzhangcx@connect.ust.hk">Email ↗</a><a href="https://scholar.google.com/citations?user=B8hPxMQAAAAJ&amp;hl=en">Google Scholar ↗</a><a href="https://github.com/HaoZhang534">GitHub ↗</a><a href="https://www.linkedin.com/in/hao-zhang-3b09b8196/">LinkedIn ↗</a></nav>
+  </div>
+  <a class="hero-scroll" href="#about" aria-label="Continue to About">↓</a>
+</section>
+<section class="section shell" id="about">
+  <div class="about-grid">
+    <div class="about-copy"><p class="eyebrow">About</p><h2>Building capable agents.<br>Understanding how they learn.</h2>{{ site.data.research_home.biography | markdownify }}<p>I welcome discussions and collaborations. Feel free to <a href="mailto:hzhangcx@connect.ust.hk">get in touch</a>.</p></div>
+    <div class="portrait-wrap"><img class="portrait" src="{{ '/images/photo.jpg' | relative_url }}" alt="Hao Zhang" width="240" height="240" loading="lazy"><p class="portrait-caption">Research Scientist · NVIDIA Research<br>Ph.D. · HKUST</p></div>
+  </div>
+</section>
+<section class="focus-section"><div class="section shell"><p class="eyebrow">Research focus</p><h2>Learning, acting, and scaling.</h2><div class="focus-grid">
+  <div class="focus-item"><span class="path-number">01</span><h3>Agentic reinforcement learning</h3><p>Training systems and algorithms for language agents that reason, use tools, and interact over long horizons.</p></div>
+  <div class="focus-item"><span class="path-number">02</span><h3>Multimodal intelligence</h3><p>Connecting language with images, video, and visual understanding to build agents that perceive and act.</p></div>
+  <div class="focus-item"><span class="path-number">03</span><h3>Efficient inference</h3><p>Making generative models and agent systems more practical through efficient decoding and model collaboration.</p></div>
+</div></div></section>
+<section class="section shell" id="writing">
+  <div class="section-heading"><div><p class="eyebrow">From the blog</p><h2>Ideas behind the research.</h2></div><a class="text-link" href="{{ '/blog/' | relative_url }}">All {{ notes.size }} notes ↗</a></div>
+  <div class="writing-grid">{% for post in notes limit:3 %}<article class="writing-card"><p class="eyebrow">{{ post.topic }}</p><h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3><p>{{ post.excerpt }}</p><a class="text-link" href="{{ post.url | relative_url }}">Read the note →</a></article>{% endfor %}</div>
+</section>
+<section class="section shell section-rule" id="selected-works">
+  <div class="section-heading"><div><p class="eyebrow">Research</p><h2>Selected works.</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">Publications ↗</a></div>
+  <ul class="paper-list">{% for work in site.data.research_home.recent %}{% include research-paper.html work=work %}{% endfor %}</ul>
+  <h3 class="earlier-heading">Earlier high-impact work</h3>
+  <ul class="paper-list">{% for work in site.data.research_home.earlier %}{% include research-paper.html work=work %}{% endfor %}</ul>
+  <p class="portrait-caption">* denotes equal contribution.</p>
+</section>
+<section class="focus-section"><div class="section shell" id="news"><div class="section-heading"><div><p class="eyebrow">Updates</p><h2>News & milestones.</h2></div></div>
+  <ul class="news-list">{% for item in site.data.research_home.news limit:6 %}<li><time>{{ item.date }}</time><div>{{ item.text | markdownify }}</div></li>{% endfor %}</ul>
+  <details class="older-news"><summary>Earlier updates</summary><ul class="news-list">{% for item in site.data.research_home.news offset:6 %}<li><time>{{ item.date }}</time><div>{{ item.text | markdownify }}</div></li>{% endfor %}</ul></details>
+</div></section>
+<section class="section shell"><p class="eyebrow">Recognition</p><h2>Selected awards.</h2><ul class="award-list"><li>CSE Best PhD Dissertation Award Honorable Mention, 2023–24</li><li>RedBird Research Scholarship, HKUST, 2020</li><li>Hong Kong Postgraduate Scholarship, 2020, 2021, 2022 & 2023</li></ul></section>
